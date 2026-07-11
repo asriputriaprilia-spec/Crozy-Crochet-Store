@@ -133,3 +133,19 @@ Proyek ini dibangun secara disiplin menggunakan kontrol versi Git dengan minimal
 ---
 
 ## 👤 Tim Pengembang (Kontributor)
+## 👤 Tim Pengembang (Kontributor)
+
+<table id="kontributor">
+  <tr>
+    <td align="center">
+      <a href="https://github.com">
+        <img src="https://github.com.png" width="100px;" alt="Foto Profil"/><br />
+        <sub><b>Asri Putri Aprilia</b></sub>
+      </a><br />
+      <sub>NIM: 209250003</sub><br />
+      <sub>Kelas: Administrasi Bisnis 1</sub><br />
+      <a href="#" title="Desain & Kode">💻 Front-End Developer</a>
+    </td>
+  </tr>
+</table>
+
