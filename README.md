@@ -110,13 +110,13 @@ function trackUserAction(eventCategory, eventAction) {
 
 | Halaman Beranda & Katalog Kategori | Modal Keranjang Belanja & Formulir Pemesanan |
 |---|---|
-| ![Desktop Home](https://github.io) | ![Desktop Checkout](https://placeholder.com) |
+| <img width="1344" height="668" alt="Screenshot 2026-07-09 102035" src="https://github.com/user-attachments/assets/0f8f5ddc-4667-4592-a4ec-b74975ede68c" /> | <img width="985" height="704" alt="Screenshot 2026-07-11 132410" src="https://github.com/user-attachments/assets/549e9ac8-f0bd-43f4-a7d4-39681dac54a0" /> |
 
 ### Tampilan Versi Seluler (Mobile View)
 
 | Beranda & Menu Navigasi (Mobile) | Keranjang Belanja (Mobile) |
 |---|---|
-| ![Mobile Home](https://placeholder.com) | ![Mobile Cart](https://placeholder.com) |
+| <img width="512" height="584" alt="Screenshot 2026-07-11 133349" src="https://github.com/user-attachments/assets/e59d17f5-4950-490c-9c70-fed85cca1d12" /> | <img width="464" height="582" alt="Screenshot 2026-07-11 133710" src="https://github.com/user-attachments/assets/b746d135-fba4-4b31-adb9-fd2ecb50d363" /> |
 
 ---
 
