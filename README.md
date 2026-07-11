@@ -1,7 +1,5 @@
 # 🧵 Proyek E-Commerce: Membangun Website E-Commerce Fungsional Dengan Integrasi Strategi Bisnis Modern
 
-[![Platform](https://shields.io)](#)
-[![Deployment Status](https://shields.io)](https://asriputriaprilia-spec.github.io/Crozy-Crochet-Store/)
 
 Proyek ini merupakan bentuk implementasi praktis platform *e-commerce* fungsional berskala penuh yang menggabungkan keahlian teknis pengembangan *front-end web* (HTML5, CSS3, Vanilla JavaScript) dengan rancangan dokumentasi strategi bisnis yang matang untuk produk kerajinan tangan rajutan.
 
