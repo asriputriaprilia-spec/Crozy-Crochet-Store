@@ -1,7 +1,7 @@
 # 🧵 Proyek E-Commerce: Membangun Website E-Commerce Fungsional Dengan Integrasi Strategi Bisnis Modern
 
 [![Platform](https://shields.io)](#)
-[![Deployment Status](https://shields.io)](https://github.io)
+[![Deployment Status](https://shields.io)](https://asriputriaprilia-spec.github.io/Crozy-Crochet-Store/)
 
 Proyek ini merupakan bentuk implementasi praktis platform *e-commerce* fungsional berskala penuh yang menggabungkan keahlian teknis pengembangan *front-end web* (HTML5, CSS3, Vanilla JavaScript) dengan rancangan dokumentasi strategi bisnis yang matang untuk produk kerajinan tangan rajutan.
 
@@ -10,7 +10,7 @@ Proyek ini merupakan bentuk implementasi praktis platform *e-commerce* fungsiona
 ## 🔗 Tautan Penting Proyek
 
 *   **Tautan Repositori GitHub:** [https://github.com](https://github.com)
-*   **Tautan GitHub Pages (Situs Aktif):** [https://github.io](https://github.io)
+*   **Tautan GitHub Pages (Situs Aktif):** [https://asriputriaprilia-spec.github.io/Crozy-Crochet-Store/](https://asriputriaprilia-spec.github.io/Crozy-Crochet-Store/)
 
 ---
 
@@ -108,9 +108,9 @@ function trackUserAction(eventCategory, eventAction) {
 
 ### Tampilan Versi Desktop (Desktop View)
 
-| Halaman Beranda & Katalog Kategori | Modal Keranjang Belanja (*localStorage*) | Formulir Pemesanan & Metode Pembayaran |
-|---|---|---|
-| ![Desktop Home](https://placeholder.com) | ![Desktop Cart](https://placeholder.com) | ![Desktop Checkout](https://placeholder.com) |
+| Halaman Beranda & Katalog Kategori | Modal Keranjang Belanja & Formulir Pemesanan |
+|---|---|
+| ![Desktop Home](https://github.io) | ![Desktop Checkout](https://placeholder.com) |
 
 ### Tampilan Versi Seluler (Mobile View)
 
@@ -130,3 +130,8 @@ Proyek ini dibangun secara disiplin menggunakan kontrol versi Git dengan minimal
 5.  `feat: membuat sistem penambahan item keranjang terintegrasi fitur localStorage`
 6.  `feat: membangun komponen Formulir Pemesanan disertai pilihan SeaBank, DANA, QRIS, dan COD`
 7.  `fix: perbaikan bug validasi form pengiriman dan kalkulasi otomatis total harga Rp 0`
+8.  `docs: penyelesaian skrip analitik dummy serta kelengkapan dokumentasi bisnis berkas README`
+
+---
+
+## 👤 Tim Pengembang (Kontributor)
