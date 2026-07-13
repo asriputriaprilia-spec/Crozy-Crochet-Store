@@ -7,7 +7,7 @@ Proyek ini merupakan bentuk implementasi praktis platform *e-commerce* fungsiona
 
 ## 🔗 Tautan Penting Proyek
 
-*   **Tautan Repositori GitHub:** [https://github.com](https://github.com)
+*   **Tautan Repositori GitHub:** [[https://github.com](https://github.com)](https://github.com/asriputriaprilia-spec/Crozy-Crochet-Store)
 *   **Tautan GitHub Pages (Situs Aktif):** [https://asriputriaprilia-spec.github.io/Crozy-Crochet-Store/](https://asriputriaprilia-spec.github.io/Crozy-Crochet-Store/)
 
 ---
